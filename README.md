@@ -9,7 +9,7 @@ Welcome to the Movie Recommendation Model repository! This project builds a mach
 ## Installation 💻
 Clone this repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-model.git
+git clone https://github.com/chayanC7mondal/MovieRecommenderModel.git
 cd movie-recommendation-model
 pip install -r requirements.txt
 ```
