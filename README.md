@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Usage 🚀
 1. **Prepare Data:**
    ```bash
-   python data_preparation.py --input dataset/movies.csv --output processed_data/
+   python data_preparation.py --input dataset.csv --output processed_data/
    ```
 2. **Train Model:**
    ```bash
