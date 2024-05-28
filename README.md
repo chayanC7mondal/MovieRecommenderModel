@@ -29,7 +29,7 @@ pip install -r requirements.txt
    ```
 
 ## Dataset 📊
- Used dataset provided in the 
+ Used dataset provided in the link (https://github.com/ChitranjanUpadhayay/ML_Projects/blob/main/Datasets/Movies%20Recommendation%20System/dataset.csv)
 ## Contributing 🤝
 1. Fork the repository.
 2. Create a branch (`git checkout -b feature-branch`).
