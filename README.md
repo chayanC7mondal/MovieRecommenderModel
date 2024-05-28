@@ -29,8 +29,7 @@ pip install -r requirements.txt
    ```
 
 ## Dataset 📊
-Using the MovieLens dataset. Download it [here](https://grouplens.org/datasets/movielens/latest/).
-
+ Used dataset provided in the 
 ## Contributing 🤝
 1. Fork the repository.
 2. Create a branch (`git checkout -b feature-branch`).
